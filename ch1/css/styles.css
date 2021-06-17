@@ -52,6 +52,10 @@ img {
 	font-style: italic;
 }
 
+.table {
+	table border="10" style="width:100%"
+}
+
 .MethodWrapper li {
 	padding: .4rem 0;
 }
